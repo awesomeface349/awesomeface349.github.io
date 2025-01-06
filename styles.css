@@ -1,5 +1,7 @@
-h1,
-h2,
-a {
+h1, h2  {
+    text-align: center;
+}
+
+.socials {
     text-align: center;
 }
